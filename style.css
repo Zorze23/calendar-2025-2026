@@ -8,10 +8,12 @@ html, body {
 body {
   display: flex;
   justify-content: center;
-  align-items: center;
+  align-items: flex-start;
 }
 
 .pdf-viewer {
-  width: 100%;
+  width: 100vw;   /* full viewport width */
+  height: 100vh;  /* full viewport height */
   border: none;
 }
+
