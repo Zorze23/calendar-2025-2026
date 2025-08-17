@@ -1,1 +1,1 @@
-# Calendrier scolaire 2025–2026
+# CECCE Calendrier scolaire 2025–2026
